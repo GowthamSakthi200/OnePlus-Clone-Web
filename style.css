@@ -1,0 +1,574 @@
+.op1
+{
+    display: flex;
+    gap: 35px;
+    margin-left: 10px;
+    font-size: large;
+}
+.op2
+{
+    display: flex;
+    gap: 35px;
+    font-size: large;
+    
+}
+.op
+{
+    display: flex;
+    gap: 220px;
+    justify-content: center;
+}
+#logo
+{
+    color: #f50707 ;
+    font-size: large;
+    padding-top: 0px;
+    margin-top: 15px;
+}
+#headlogo
+{
+    margin-top: 19px;  
+}
+.oneplus
+{
+    display: flex;
+
+}
+.tv img
+{
+    height: 700px;
+    width: 1500px; 
+    position: relative; 
+}
+.tvt
+{
+   position: absolute;
+   top: 180px;
+   left: 50px;
+}
+.tvt1
+{
+    position: absolute;
+    top: 550px;
+    left: 50px;
+}
+.notify
+{
+    border: 2px solid black;
+    height: 35px;
+    width: 160px;
+    border: none;
+    border-radius: 7px;
+    margin-left: 60px;
+}
+.notify:hover
+{
+    background-color: black;
+    color: white;
+    transition-duration: 0.5s;
+}
+.one
+{
+    font-size: 22px;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.four
+{
+    
+    padding-top: 155px;
+}
+.two
+{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.one pre
+{
+     font-size: 17px;
+     font-family: 'Times New Roman', Times, serif;
+}
+.three
+{
+    font-size: 37px;
+}
+.oneplust
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.five
+{
+    display: flex;
+    gap: 30px;
+}
+.buy
+{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    box-shadow: inset 0 0 #2b2b2b;
+     transition: color .2s ease-in-out, box-shadow .2s ease-in-out;
+}
+.buy:hover
+{
+    box-shadow: inset 200px 0 #2b2b2b;
+    color: white;
+}
+.learn
+{
+    box-shadow: inset 0 0 lightgrey;
+  color: black;
+  height: 40px;
+  width: 200px;
+  transition: color .2s ease-in-out, box-shadow .2s ease-in-out;
+}
+.learn:hover
+{
+    box-shadow: inset 200px 0 lightgrey;
+    color: black;
+}
+.week
+{
+    font-size: 25px;
+    border-bottom: 2px solid #2b2b2b;
+    width: 1350px;
+    margin-left: 80px;
+}
+.highlight 
+{
+    display: flex;
+    padding-left: 80px;
+    font-size: 26px;
+    gap: 15px;
+}
+.highlight a
+{
+    text-decoration: none;
+    color: black;
+}
+.content
+{
+    border: 2px solid black;
+    border-radius: 18px;
+    width: 320px;
+    padding: 10px;
+    margin: 10;
+    align-content: center;
+    text-align: center;
+    transition: 200ms;
+    margin-left: 25px;
+    border: none; 
+    font-style: normal;
+}
+.content pre
+{
+    color: red;
+    font-size: 16px;
+}
+.btn
+{
+    border-radius: 8px;
+    border: 1px solid black;
+    height: 37px;
+    width: 100px;
+}
+.btn:hover
+{
+    background-color: black;
+    color: white;
+    transition-duration: 0.5s;
+}
+.products
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content img:hover
+{
+   height: 363px;
+   transition-duration: 0.5s;
+}
+.view 
+{
+    text-align: center;
+    font-size: 20px;
+}
+.view a
+{
+    text-decoration: none;
+    color: black;
+}
+.view a:hover
+{
+    font-size: 22px;
+    transition-duration: 0.5s;
+}
+.feature
+{
+    font-size: 23px;
+    border-bottom: 2px solid white;
+    margin-left: 80px;
+    padding-bottom: 20px;
+    color: white;
+    padding-top: 50px;
+    width: 1350px;
+}
+.black
+{
+    background-color: black;
+}
+.new
+{
+   padding-left: 80px;
+   font-size: 47px;
+   color: white;
+}
+.black span
+{
+    color: red;
+}
+.one1
+{
+    color: white;
+    font-size: 48px;
+    padding-left: 80px;
+}
+.two2
+{
+    font-size: 15px;
+    padding-top: 170px;
+    padding-left: 0px;
+}
+.three3
+{
+    padding-left: 3px;
+}
+.featuring
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.more
+{
+    height: 40px;
+    width: 200px;
+    margin-left: 130px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    box-shadow: inset 0 0 #2b2b2b;
+     transition: color .2s ease-in-out, box-shadow .2s ease-in-out;
+}
+.more:hover
+{
+    box-shadow: inset 200px 0 #2b2b2b;
+    color: white;
+}
+.topia
+{
+    font-size: 23px;
+    border-bottom: 2px solid white;
+    margin-left: 80px;
+    padding-bottom: 20px;
+    color: white;
+    padding-top: 50px;
+    width: 1350px;
+}
+.never
+{
+    color: white;
+    font-size: 47px;
+    padding-left: 80px;
+}
+.neversettle
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.txt
+{
+    font-size: 50px;
+    font-style: oblique;
+    color: white;
+    padding-left: 40px;
+}
+.neverimg
+{
+    padding-left: 70px;
+}
+.neverimg:hover
+{
+    width: 850px;
+}
+.txt1
+{
+    color: white;
+    padding-top: 200px;
+    padding-left: 40px;
+    font-size: 17px;
+}
+.txt3
+{
+    height: 40px;
+    width: 200px;
+    margin-left: 180px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    box-shadow: inset 0 0 #2b2b2b;
+     transition: color .2s ease-in-out, box-shadow .2s ease-in-out;
+}
+.txt3:hover
+{
+    box-shadow: inset 200px 0 #2b2b2b;
+    color: white;
+}
+.update
+{
+   color: white;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+
+}
+.os
+{
+   display: flex;
+   padding-left: 80px;
+
+
+}
+.oxy2
+{
+    font-size: 18px;
+    padding-top: 160px;
+}
+.photo
+{
+     display: flex;
+     justify-content: center;
+     padding-left: 50px;
+
+
+}
+.oxygen
+{
+    border: 1px solid white;
+    height: 389px;
+    width: 320px;
+    padding-left: 20px;
+    background-color: #242323;
+    border: none;
+}
+.oxygen a
+{
+    color: white;
+}
+.photo1
+{
+    border: 1px solid white;
+    height: 365px;
+    width: 300px;
+    padding: 20px;
+    background-color: #242323;
+    border: none;
+    padding-top: 5px;
+}
+.pho2
+{
+    font-size: 18px;
+    padding-top: 110px;
+}
+.photo1 a
+{
+    color: white;
+
+}
+.update:hover
+{
+    transition-duration: 0.5s;
+}
+.cable
+{
+    font-size: 23px;
+    border-bottom: 2px solid white;
+    margin-left: 80px;
+    padding-bottom: 20px;
+    color: white;
+    padding-top: 50px;
+    width: 1350px;
+}
+.unlock
+{
+  color: white;
+  font-size: 47px;
+  padding-left: 80px;   
+}
+.unlock span
+{
+    color: red;
+}
+.redcable
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.redcable1
+{
+    color: white;
+    padding-left: 60px;
+}
+.red1
+{
+    font-size: 55px;
+    padding-bottom: 145px;
+}
+.red2
+{
+    font-size: 17px;
+}
+.redcable img
+{
+    padding-top: 25px;
+}
+.red3
+{
+    border-bottom: 1.5px solid white;
+    background-color: black;
+    color: white;
+}
+.com
+{
+    font-size: 20px;
+    padding-top: 45px;
+    padding-left: 0px;
+    display: flex;
+    border-bottom: 1px solid black;
+    width: 1340px;
+    margin-left: 80px;
+}
+.com .joinus
+{
+    padding-left: 1060px;
+}
+.joinus span
+{
+    color: red;
+}
+.community
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 70px;
+    gap: 40px;
+}
+.pow1
+{
+    font-size: 50px;
+    padding-left: 70px;
+}
+.pow2
+{
+    font-size: 20px;
+    padding-top: 140px;
+}
+.community .pow3
+{
+    border: none;
+    border-bottom: 1px solid black;
+    background: white;
+}
+.common1
+{
+    font-size: 35px;
+}
+.common2
+{
+    font-size: 18px;
+}
+.common3
+{
+    border: none;
+    border-bottom: 1px solid black;
+    background: white;  
+}
+.about
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding-top: 70px;
+}
+.sms
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 80px;
+    margin-top: 25px;
+}
+.always
+{
+    font-size: 55px;
+}
+.sign
+{
+    font-size: 25px;
+}
+.subscribe
+{
+    border: 1px solid black;
+    height: 45px;
+    width: 190px;
+    border-radius: 7px;
+}
+.subscribe:hover
+{
+    border: 3px solid red;
+    color: red;
+    transition-duration: 0.4s;
+}
+.end
+{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
+.endheading
+{
+    padding-top: 30px;
+}
+.endheading a
+{
+    color: #595858;
+    text-decoration: none;
+    padding-top: 20px;
+}
+.endheading a:hover
+{
+    color: red;
+}
+.contact
+{
+    text-align: center;
+    font-size: 30px;
+}
+.copyright
+{
+    display: flex;
+    padding-left: 1180px;
+}
+.copyright img
+{
+    padding-top: 17px;
+}
